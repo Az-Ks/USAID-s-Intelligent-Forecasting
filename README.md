@@ -1,4 +1,4 @@
-# USAID-s-Intelligent-Forecasting
+# USAID-Intelligent-Forecasting
 
 ## Final Output: preds_grp_kfold.csv
 
